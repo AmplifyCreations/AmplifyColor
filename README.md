@@ -52,8 +52,8 @@
 # Software Requirements
 
   Minimum
-
-    Unity 4.6.8f1
+  
+  * Unity 4.6.8f1
 
 # Quick Guide
 
