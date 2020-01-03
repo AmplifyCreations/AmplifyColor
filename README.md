@@ -1,16 +1,16 @@
 # Amplify Color
 
-  Amplify Color was the first modern, high-performance LUT-based post-effect
-  color grading solution for Unity. It was originally named Color3 and was the 
-  first plugin we released on the Unity Asset Store, back in February of 2012.
+  Amplify Color was the first modern, high-performance LUT-based post-effect color
+  grading solution for Unity. It was originally named Color3 and was the first plugin
+  we released on the Unity Asset Store, back in February of 2012.
 
-  This color grading post-effect enabled the ability to do complex grading 
-  operations at a minimal and stable performance cost. The performance cost 
-  was so low, that it quickly became viable for use even on smartphones.
+  This color grading post-effect enabled the ability to do complex grading operations 
+  at a minimal and stable performance cost. The performance cost was so low, that it 
+  quickly became viable for use even on smartphones.
 
-  Amplify Color would automatically export a frame of the current camera directly 
-  to Photoshop, allow you to use common color and tone operations on the image,
-  then import the LUT back to Unity for storage in the project.
+  Amplify Color would automatically export a frame of the current camera directly to 
+  Photoshop, allow you to use common color and tone operations on the image, then import
+  the LUT back to Unity for storage in the project.
 
   It was also the first to include the ability to mask and blend different LUTs, create 
   context Volumes to enable LUT and generic property blending based on camera location 
@@ -47,13 +47,11 @@
   
 # Supported Platforms
 
-  * All platforms
+  All platforms
 	
 # Software Requirements
 
-  Minimum
-  
-  * Unity 4.6.8f1
+  Unity 4.6.8f1
 
 # Quick Guide
 
@@ -78,7 +76,7 @@
 
   Please refer to the following website for an up-to-date online manual:
 
-   http://amplify.pt/unity/amplify-color/manual
+    http://amplify.pt/unity/amplify-color/manual
 
 # Feedback
 
@@ -89,8 +87,8 @@
 
   Or contact us directly:
 
-    For general inquiries - info@amplify.pt
-    For technical support - support@amplify.pt (customers only)
+    General inquiries: info@amplify.pt
+    Technical support: support@amplify.pt (customers only)
 
 # Acknowledgements
 
