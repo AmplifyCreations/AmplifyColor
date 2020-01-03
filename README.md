@@ -89,8 +89,8 @@
 
   Or contact us directly:
 
-    General inquiries: info@amplify.pt
-    Technical support: support@amplify.pt (customers only)
+    For general inquiries - info@amplify.pt
+    For technical support - support@amplify.pt (customers only)
 
 # Acknowledgements
 
