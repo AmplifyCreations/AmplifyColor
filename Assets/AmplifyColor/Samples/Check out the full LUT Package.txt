@@ -1,0 +1,33 @@
+ 
+Looking for extra LUT textures? Check out the full Amplify Color LUT Pack!
+
+Amplify LUT Pack - http://u3d.as/maA
+    
+Description
+
+  Over 200 LUTs in a comprehensive and varied pack exclusively for Amplify Color, ready
+  to use and extremely simple to add to your project. Blend up to 3 LUT's with the added
+  blending features available in Amplify Color along with Volume and Depth based Masking
+  and easily apply new color profiles using the new LUT Browser. 
+	
+In the package
+
+  * LUT Browser - Fully functional LUT Management & Preview Tool
+  * Base Adjustments
+  * Color Blindness Simulation
+  * Film Color
+  * Film Mono
+  * Popular Looks
+  * Stock Film Base
+  * Stock Film Standard
+  * Stock Film Vintage
+  * Stylized Misc
+  * Stylized Retro
+ 
+Supported Platforms
+
+  * All platforms
+
+Minimum Requirements
+
+  Amplify Color 1.5 or higher
