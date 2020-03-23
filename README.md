@@ -80,18 +80,6 @@
 
     http://amplify.pt/unity/amplify-color/manual
 
-# Feedback
-
-  To file error reports, questions or suggestions, you may use 
-  our feedback form online:
-	
-    http://amplify.pt/contact
-
-  Or contact us directly:
-
-    For general inquiries - info@amplify.pt
-    For technical support - support@amplify.pt (customers only)
-
 # Acknowledgements
 
   This project was originally built in partnership with Tiago Carvalho
