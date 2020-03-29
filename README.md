@@ -1,20 +1,22 @@
 # Amplify Unity Products
-  While this package is provided, as is, for free, we develop and maintain
-  professionally created solutions used by thousands of developers. We invite
-  you to check our current projects, and to join our growing [Discord Community](https://discord.gg/SbNs7zK).
-  
- [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570?aid=1011lPwI&pubref=GitHub) - Award-winning node-based shader creation tool
- 
- [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-beta-119877?aid=1011lPwI&pubref=GitHub) - 1-Click Impostor Creator
- 
- [Amplify LUT Pack](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/amplify-lut-pack-50070?aid=1011lPwI&pubref=GitHub) - 200+ LUTs for Amplify Color and Unity PPS
- 
 
+  While this package is provided, as is, for free, we develop and maintain professionally 
+  created solutions used by thousands of developers. We invite you to check our current 
+  projects, and to join our growing [Discord Community](https://discord.gg/SbNs7zK).
+  
+  [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570?aid=1011lPwI&pubref=GitHub) - Award-winning node-based shader creation tool
+ 
+  [Amplify Impostors](https://assetstore.unity.com/packages/tools/utilities/amplify-impostors-beta-119877?aid=1011lPwI&pubref=GitHub) - 1-Click Impostor Creator
+ 
+  [Amplify LUT Pack](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/amplify-lut-pack-50070?aid=1011lPwI&pubref=GitHub) - 200+ LUTs for Amplify Color and Unity PPS
+ 
 # Amplify Color
 
-  Amplify Color was the first modern, high-performance LUT-based post-effect color
+  Amplify Color was the first modern, high-performance LUT-based post-effect color 
   grading solution for Unity. It was originally named Color3 and was the first plugin
-  we released on the Unity Asset Store, back in February of 2012.
+  we released on the Unity Asset Store, back in February of 2012.  
+  
+  <p align="center"><img src="https://i.imgur.com/KHcQ4ua.jpg"></p>
 
   This color grading post-effect enabled the ability to do complex grading operations 
   at a minimal and stable performance cost. The performance cost was so low, that it 
@@ -22,12 +24,12 @@
 
   Amplify Color would automatically export a frame of the current camera directly to 
   Photoshop, allow you to use common color and tone operations on the image, then import
-  the LUT back to Unity for storage in the project.
+  the LUT back to Unity for storage in the project.  
 
   It was also the first to include the ability to mask and blend different LUTs, create 
   context Volumes to enable LUT and generic property blending based on camera location 
   and many other innovative features.
-
+  
   This package was for sale on the Unity Asset Store between 2012 and 2019 with an
   average rating of 5 stars. It is now deprecated and we no longer support it, so we 
   are releasing it to open-source world under the MIT License.
