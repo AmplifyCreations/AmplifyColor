@@ -16,7 +16,7 @@
   grading solution for Unity. It was originally named Color3 and was the first plugin
   we released on the Unity Asset Store, back in February of 2012.  
   
-  <p align="center"><img src="https://i.imgur.com/KHcQ4ua.jpg"></p>
+  <p align="center"><img src="http://files.amplify.pt/RT/2021/11/ColorTemp.jpg"></p>
 
   This color grading post-effect enabled the ability to do complex grading operations 
   at a minimal and stable performance cost. The performance cost was so low, that it 
