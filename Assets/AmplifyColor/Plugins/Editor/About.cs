@@ -10,7 +10,7 @@ namespace AmplifyColor
 {
 	public class About : EditorWindow
 	{
-		private const string AboutImagePath = "AmplifyColor/Textures/About.png";
+		private const string AboutImageGUID = "ab75e8f12bda12c46a2124ff051a96cb";
 		private Vector2 m_scrollPosition = Vector2.zero;
 		private Texture2D m_aboutImage;
 
@@ -25,33 +25,10 @@ namespace AmplifyColor
 
 		public void OnFocus()
 		{
-			string[] guids = AssetDatabase.FindAssets( "About t:Texture" );
-			string asset = "";
-
-			foreach ( string guid in guids )
+			if ( m_aboutImage == null )
 			{
-				string path = AssetDatabase.GUIDToAssetPath( guid );
-				if ( path.EndsWith( AboutImagePath ) )
-				{
-					asset = path;
-					break;
-				}
+				m_aboutImage = AssetDatabase.LoadAssetAtPath( AssetDatabase.GUIDToAssetPath( AboutImageGUID ), typeof( Texture2D ) ) as Texture2D;
 			}
-
-			if ( !string.IsNullOrEmpty( asset ) )
-			{
-				TextureImporter importer = AssetImporter.GetAtPath( asset ) as TextureImporter;
-
-				if ( importer.textureType != TextureImporterType.GUI )
-				{
-					importer.textureType = TextureImporterType.GUI;
-					AssetDatabase.ImportAsset( asset );
-				}
-
-				m_aboutImage = AssetDatabase.LoadAssetAtPath( asset, typeof( Texture2D ) ) as Texture2D;
-			}
-			else
-				Debug.LogWarning( "[AmplifyColor] About image not found at " + AboutImagePath );
 		}
 
 		public void OnGUI()
