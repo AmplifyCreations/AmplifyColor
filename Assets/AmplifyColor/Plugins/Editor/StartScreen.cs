@@ -31,15 +31,15 @@ namespace AmplifyColor
 		private static readonly string IconGUID = "b0c46a178ec7dfb449dc16c02a7f4df2";
 		private static readonly string BannerGUID = "4f5f3aef5d91ae244a715724f0763faf";
 
-		public static readonly string BannerInfoURL = "http://amplify.pt/Banner/ACInfo.json";
-		public static readonly string PackageRefURL = "http://amplify.pt/Banner/PackageRef.json";
+		public static readonly string BannerInfoURL = "https://amplify.pt/Banner/ACInfo.json";
+		public static readonly string PackageRefURL = "https://amplify.pt/Banner/PackageRef.json";
 
-		private static readonly string WikiURL = "http://wiki.amplify.pt/index.php?title=Unity_Products:Amplify_Color";
+		private static readonly string WikiURL = "https://wiki.amplify.pt/index.php?title=Unity_Products:Amplify_Color";
 
 		private static readonly string DiscordURL = "https://discordapp.com/invite/EdrVAP5";
 		private static readonly string ForumURL = "https://forum.unity.com/threads/free-amplify-color-advanced-color-grading.204253/";
 
-		private static readonly string SiteURL = "http://amplify.pt/download/";
+		private static readonly string SiteURL = "https://amplify.pt/download/";
 		private static readonly string StoreURL = "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/amplify-color-1894?aid=1011lPwI&pubref=" + RefID;
 
 		private static readonly GUIContent ResourcesTitle = new GUIContent( "Learning Resources" );

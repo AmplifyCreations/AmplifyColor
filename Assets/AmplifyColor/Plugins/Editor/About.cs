@@ -44,7 +44,7 @@ namespace AmplifyColor
 			GUILayout.Box( m_aboutImage, GUIStyle.none );
 
 			if ( Event.current.type == EventType.MouseUp && GUILayoutUtility.GetLastRect().Contains( Event.current.mousePosition ) )
-				Application.OpenURL( "http://www.amplify.pt" );
+				Application.OpenURL( "https://www.amplify.pt" );
 
 			GUILayout.FlexibleSpace();
 			GUILayout.EndHorizontal();

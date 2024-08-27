@@ -20,7 +20,11 @@ public class AmplifyColorTriggerProxy2D : AmplifyColorTriggerProxyBase
 
 		rigidBody = GetComponent<Rigidbody2D>();
 		rigidBody.gravityScale = 0;
+	#if UNITY_2022_1_OR_NEWER
+		rigidBody.bodyType = RigidbodyType2D.Kinematic;
+	#else		
 		rigidBody.isKinematic = true;
+	#endif
 	}
 
 	void LateUpdate()
