@@ -10,8 +10,8 @@ namespace AmplifyColor
 	public class VersionInfo
 	{
 		public const byte Major = 1;
-		public const byte Minor = 8;
-		public const byte Release = 2;
+		public const byte Minor = 9;
+		public const byte Release = 0;
 
 		private static string StageSuffix = "";
 
